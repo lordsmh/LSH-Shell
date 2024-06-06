@@ -1,6 +1,6 @@
 # LSH: A Simple Shell
 
-This project is a simple command-line shell (LSH) written in C. It supports a few built-in commands and can execute external programs.
+This project is a simple command-line shell (LSH) written by LordSmh in C. It supports a few built-in commands and can execute external programs.
 
 ## Features
 
@@ -43,9 +43,9 @@ After running the program, you can enter your commands. For example:
 - `main.c`: The main file that contains all the necessary functions to run the shell.
 - `builtin_func[]` and `builtin_str[]`: Arrays that store the built-in commands and their corresponding functions.
 - Built-in command functions:
-  - `lsh_cd(char **args)`: Changes the current directory.
-  - `lsh_help(char **args)`: Displays help information.
-  - `lsh_exit(char **args)`: Exits the shell.
+  - `cd(char **args)`: Changes the current directory.
+  - `help(char **args)`: Displays help information.
+  - `exit(char **args)`: Exits the shell.
 
 ## Author
 
