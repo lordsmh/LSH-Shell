@@ -1,6 +1,6 @@
 # LSH: A Simple Shell
 
-This project is a simple command-line shell (LSH) written by LordSmh in C. It supports a few built-in commands and can execute external programs.
+This project is a simple command-line shell (LSH) written by LordSMH in C. It supports a few built-in commands and can execute external programs.
 
 ## Features
 
