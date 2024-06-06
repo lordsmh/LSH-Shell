@@ -50,3 +50,7 @@ After running the program, you can enter your commands. For example:
 ## Author
 
 This project was created by Lord_Smh.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LISENCE) file for details.
