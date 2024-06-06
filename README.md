@@ -50,7 +50,3 @@ After running the program, you can enter your commands. For example:
 ## Author
 
 This project was created by Lord_Smh.
-
----
-
-Feel free to use and modify this README as needed for your GitHub repository!
